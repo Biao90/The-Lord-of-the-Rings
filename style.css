@@ -1,0 +1,49 @@
+
+
+* {
+    background-color: rgb(197, 200, 202);
+}
+
+
+
+
+h1 {
+    color: rgb(187, 164, 33);
+
+}
+
+h2 {
+    color: rgb(121, 111, 56);
+
+}
+
+#Gandalfthegray{
+    color: grey;
+}
+
+#Saurontheblack {
+    color: black;
+}
+
+#Sarumanthewhite {
+    color: bisque;
+}
+
+#Radagastthebrown {
+    color: rgb(97, 6, 6);
+}
+
+.textogandalf { 
+    color: rgb(15, 112, 112);
+}
+
+.titleradagast {
+    color: rgb(95, 12, 12);
+}
+
+.titlesaruman {
+    color: rgb(14, 170, 118);
+}
+.titlesauron {
+    color: rgb(126, 9, 9);
+}
